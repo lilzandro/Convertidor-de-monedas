@@ -4,10 +4,10 @@
 
 ## Folder Structure
 
-Descripción
+Descripción:
 El Convertidor de Monedas es una sencilla aplicación de consola desarrollada en Java que te permite convertir montos de una moneda local a divisas extranjeras. Esta herramienta ha sido creada como parte de un proyecto personal para mejorar mis habilidades en programación Java y facilitar la conversión de monedas para usuarios interesados en realizar transacciones en otras monedas.
 
-Características
+Características:
 Conversión entre múltiples monedas: El Convertidor de Monedas admite una selección de monedas extranjeras populares, lo que te permitirá convertir montos desde una moneda local a otras divisas internacionales.
 
 Requisitos del Sistema
@@ -23,8 +23,3 @@ Sigue las instrucciones en pantalla para ingresar la cantidad a convertir, la mo
 
 Aportaciones y Problemas
 Si encuentras algún problema o tienes alguna sugerencia de mejora, te invito a que lo comuniques a través de los issues. Además, si deseas contribuir al proyecto, puedes enviar tus cambios mediante pull requests.
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
-# Convertidor_de_divisas
-# Convertidor-de-monedas
